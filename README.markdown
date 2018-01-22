@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fdrizzle-nginx-module.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fdrizzle-nginx-module?ref=badge_shield)
+
 Name
 ====
 
@@ -865,3 +867,7 @@ See Also
 * [lua-nginx-module](http://github.com/openresty/lua-nginx-module)
 * The [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) library based on the [lua-nginx-module](http://github.com/openresty/lua-nginx-module) cosocket API.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fdrizzle-nginx-module.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fdrizzle-nginx-module?ref=badge_large)
